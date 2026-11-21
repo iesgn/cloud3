@@ -5,7 +5,7 @@ menu:
   - Unidades
 ---
 
-###Introducción al Cloud Computing. OpenStack y OpenShift
+### Introducción al Cloud Computing. OpenStack y OpenShift
 
 * [Presentación: Introducción al Cloud Computing](presentacion)
 * [Enlaces sobre Cloud Computing](enlaces)
@@ -14,7 +14,7 @@ menu:
 * [Presentación: Introducción a StackOps Cirrusflex](presentacion_stackops)
 * [Presentación: Introducción a OpenShift](presentacion_openshift.html)
 
-###OpenStack Instancias 
+### OpenStack Instancias 
 
 * [Conceptos previos](../u2/conceptos_previos)
 * [Trabajo con claves ssh](../u2/claves_ssh)

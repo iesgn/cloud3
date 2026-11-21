@@ -2,7 +2,7 @@
 layout: blog
 tittle: Curso de Cloud con OpenStack
 ---
-###Enlaces interesantes
+### Enlaces interesantes
 
 * [www.openstack.org](http://www.openstack.org)
 * [www.trystack.org/](http://www.trystack.org/)

@@ -9,14 +9,14 @@ menu:
 
 La versión actúal de la plataforma StackOps implementa la solución de DNS como servicio por defecto. Los usuarios pueden ver sus instancias directamente usando FQDN interno.
 
-###Prerequisitos
+### Prerequisitos
 
 Tienes que comprobar /etc/resolv.conf (o fichero equivalente) y comprobar que tienes las siguientes líneas 
 
 	nameserver 212.231.100.50
 	nameserver 212.231.128.127
 
-###Encontrando los hostnames de mis instancias
+### Encontrando los hostnames de mis instancias
 
 En la plataforma StackOps, cada instancia tiene un FQDN interno formado por:
 

@@ -2,7 +2,7 @@
 layout: blog
 tittle: Curso de Cloud con OpenStack
 ---
-###Enlaces interesantes
+### Enlaces interesantes
 
 * [Acceso API / Endpoints](https://docs.stackops.net/endpoints-plugin-es.html)
 * [OpenStack End User Guide](http://docs.openstack.org/user-guide/content/index.html)

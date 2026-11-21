@@ -5,7 +5,7 @@ menu:
   - Unidades
 ---
 
-###OpenStack con CLI
+### OpenStack con CLI
 
 * [Conceptos previos](previos)
 * [Gestión de imágenes con glance](imagenes)
@@ -15,12 +15,12 @@ menu:
 * [Ejercicios](ejercicios)
 * [Creación automática de un escenario](demofinal)
 
-###OpenStack Swift
+### OpenStack Swift
 
 * [Presentación Swift](presentacion_objetos)
 * [Introducción a Swift](swift)
 
-###OpenStack por dentro
+### OpenStack por dentro
 
 * [Nova con KVM](kvm)
 * [Cinder con LVM/iSCSI](almacenamiento)

@@ -5,7 +5,7 @@ menu:
   - Unidades
 ---
 
-###OpenStack Redes
+### OpenStack Redes
 
 * [Introducción a la virtualización de redes](intro)
 * [Conceptos previos de redes](conceptos_previos)
